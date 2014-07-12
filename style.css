@@ -1,0 +1,11 @@
+h1 {
+    color: pink;
+    background-color: blue;
+ }
+p {
+  font-size: 200%;
+}
+
+div#main {
+    width: 90%
+}
