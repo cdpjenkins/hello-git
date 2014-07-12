@@ -1,11 +1,10 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
-
 }
 
 h1 {
-    color: White;
-    background-color: Black;
+    color: Blue;
+    background-color: Pink;
  }
 p {
   font-size: 200%;
