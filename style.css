@@ -1,11 +1,22 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
 h1 {
-    color: pink;
-    background-color: blue;
+    color: DarkBlue;
+    background-color: Gray;
  }
 p {
   font-size: 200%;
+  background-color: Pink;
 }
 
 div#main {
-    width: 90%
+    width: 90%;
+
+    margin-left: 5%;
+    maright-right: 5%;
+
 }
+
