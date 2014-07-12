@@ -4,12 +4,12 @@ body {
 }
 
 h1 {
-    color: DarkBlue;
-    background-color: Gray;
+    color: White;
+    background-color: Black;
  }
 p {
   font-size: 200%;
-  background-color: Pink;
+  background-color: LightBlue;
 }
 
 div#main {
