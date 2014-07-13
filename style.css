@@ -3,19 +3,25 @@ body {
 }
 
 h1 {
-    color: Blue;
-    background-color: Pink;
- }
+  color: Blue;
+  background-color: Pink;
+  padding: 6px 12px;
+}
+
 p {
   font-size: 200%;
-  background-color: LightBlue;
+  margin-left 1%;
+  margin-right 1%;
+  padding: 6px 12px;
 }
 
 div#main {
-    width: 90%;
-
-    margin-left: 5%;
-    maright-right: 5%;
+  width: 90%;
+  margin-left: 5%;
+  maright-right: 5%;
 
 }
 
+div.text {
+  background-color: LightBlue;
+}
