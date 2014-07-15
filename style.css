@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-  color: Blue;
-  background-color: Pink;
+  color: Black;
+  background-color: LightGray;
   padding: 6px 12px;
 }
 
@@ -23,5 +23,5 @@ div#main {
 }
 
 div.text {
-  background-color: LightBlue;
+  background-color: LightGray;
 }
